@@ -1,0 +1,2 @@
+?filter[1][attribute]=status&filter[1][eq]=1 - Enabled
+?filter[1][attribute]=visibility&filter[1][neq]=1 - Not Visible Individually
