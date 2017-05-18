@@ -1,6 +1,6 @@
 # magento-tips
 
-### magento 3
+### magento 2
 
 * shipping method (carrier) additional validation (show inactive with error message)
 
